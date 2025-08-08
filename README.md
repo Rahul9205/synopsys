@@ -10,7 +10,7 @@ This repository includes projects and notes that reflect my skills in C/C++, Lin
 - Good grasp of **digital logic**, **flip-flops**, **multiplexers**, and **computer architecture**.
 - Familiar with **Linux systems**, GDB, Makefiles, and scripting.
 - Learning Verilog quickly; project included.
-- Ranked **752 globally** in a recent LeetCode Biweekly Contest.
+- Ranked **Under 1K** in a recent LeetCode Biweekly Contest.
 
 ## 📁 Contents
 
